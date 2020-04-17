@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "project_number": "619556115697",
+    "firebase_url": "https://relawan-mengabdi.firebaseio.com",
+    "project_id": "relawan-mengabdi",
+    "storage_bucket": "relawan-mengabdi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619556115697:android:8a2445acad2dbd3f4ec550",
+        "android_client_info": {
+          "package_name": "com.example.redi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619556115697-6j9kb8iua7mt47k9pfg4ho3v2rjhcnm2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.redi",
+            "certificate_hash": "cb9449e89b8c06b8fe61d3f000c5f7201cafb0e5"
+          }
+        },
+        {
+          "client_id": "619556115697-n5j0mte29qf04t2f7dk47nmhbe1o0qdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdC7n5zy2hfxZnT7Y9y_UpijYh7Uol60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619556115697-n5j0mte29qf04t2f7dk47nmhbe1o0qdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619556115697:android:3d15d4d51439a50c4ec550",
+        "android_client_info": {
+          "package_name": "com.project.relawanmengabdi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619556115697-mdkonurdtdpdbnev715ivd30rppi6o65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.relawanmengabdi",
+            "certificate_hash": "42c020080c834b5532394a284aae8be13b4ad610"
+          }
+        },
+        {
+          "client_id": "619556115697-n5j0mte29qf04t2f7dk47nmhbe1o0qdn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKdC7n5zy2hfxZnT7Y9y_UpijYh7Uol60"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "619556115697-n5j0mte29qf04t2f7dk47nmhbe1o0qdn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
